@@ -1,6 +1,6 @@
 # E-Commerce Website
 # Description:
-The E-commerce website is a full-stack application built Django. It incorporates Tailwind CSS , resulting in a sleek and modern user interface.\
+The E-commerce website is a full-stack application built in python and Django. It incorporates Tailwind CSS , resulting in a sleek and modern user interface.\
 User Authentication: Implement signup and login features to authenticate users and secure their accounts\
 Wishlist and Cart Management: Develop functionalities to add, remove, and update items in the wishlist and cart, enhancing user engagement and convenience.\
 Checkout Process: Design a seamless checkout process with support for applying coupons and completing purchases, streamlining the buying journey for users.
